@@ -1,0 +1,21 @@
+<system>
+	<stations>
+		<station id="1034">
+			<name>14th and L St. NW</name>
+			<lat>44.2234</lat>
+			<lon>-32.89</lon>
+		</station>
+		<station id="1942">
+			<name>14th and L St. NW</name>
+			<lat>44.2234</lat>
+			<lon>-32.89</lon>
+		</station>
+	</stations>
+	<routes>
+		<route>
+			<name>S2</name>
+			<station id="1034" />
+			<station id="1942" />
+		</route>
+	</routes>
+</system>

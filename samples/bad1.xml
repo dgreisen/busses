@@ -1,0 +1,11 @@
+<system>
+	<stations>
+	</stations>
+	<routes>
+		<route>
+			<name>S2</name>
+			<station id="1034" />
+			<station id="1942" />
+		</route>
+	</routes>
+</system>
